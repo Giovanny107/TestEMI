@@ -1,0 +1,11 @@
+C:\Users\Diana Rave\source\repos\TestEMI\TestEMI.Core\bin\Debug\net7.0\TestEMI.Core.deps.json
+C:\Users\Diana Rave\source\repos\TestEMI\TestEMI.Core\bin\Debug\net7.0\TestEMI.Core.dll
+C:\Users\Diana Rave\source\repos\TestEMI\TestEMI.Core\bin\Debug\net7.0\TestEMI.Core.pdb
+C:\Users\Diana Rave\source\repos\TestEMI\TestEMI.Core\obj\Debug\net7.0\TestEMI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diana Rave\source\repos\TestEMI\TestEMI.Core\obj\Debug\net7.0\TestEMI.Core.AssemblyInfoInputs.cache
+C:\Users\Diana Rave\source\repos\TestEMI\TestEMI.Core\obj\Debug\net7.0\TestEMI.Core.AssemblyInfo.cs
+C:\Users\Diana Rave\source\repos\TestEMI\TestEMI.Core\obj\Debug\net7.0\TestEMI.Core.csproj.CoreCompileInputs.cache
+C:\Users\Diana Rave\source\repos\TestEMI\TestEMI.Core\obj\Debug\net7.0\TestEMI.Core.dll
+C:\Users\Diana Rave\source\repos\TestEMI\TestEMI.Core\obj\Debug\net7.0\refint\TestEMI.Core.dll
+C:\Users\Diana Rave\source\repos\TestEMI\TestEMI.Core\obj\Debug\net7.0\TestEMI.Core.pdb
+C:\Users\Diana Rave\source\repos\TestEMI\TestEMI.Core\obj\Debug\net7.0\ref\TestEMI.Core.dll

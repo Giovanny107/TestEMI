@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "qZPzDH3ikIJ2jYeLKzuDP6/cCWk6IyBOPkcFy2rmAT33KcgEboXm5KBIkNE+lZg4H6+8Q6e1AWZOKJ56+PpRsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diana Rave\\Source\\Repos\\Giovanny107\\TestEMI\\TestEMI.Application\\TestEMI.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diana Rave\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.20\\microsoft.aspnetcore.authorization.7.0.20.nupkg.sha512",
+    "C:\\Users\\Diana Rave\\.nuget\\packages\\microsoft.aspnetcore.metadata\\7.0.20\\microsoft.aspnetcore.metadata.7.0.20.nupkg.sha512",
+    "C:\\Users\\Diana Rave\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Diana Rave\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\Diana Rave\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\Diana Rave\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Diana Rave\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.7.1\\microsoft.identitymodel.abstractions.7.7.1.nupkg.sha512",
+    "C:\\Users\\Diana Rave\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.7.1\\microsoft.identitymodel.jsonwebtokens.7.7.1.nupkg.sha512",
+    "C:\\Users\\Diana Rave\\.nuget\\packages\\microsoft.identitymodel.logging\\7.7.1\\microsoft.identitymodel.logging.7.7.1.nupkg.sha512",
+    "C:\\Users\\Diana Rave\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.7.1\\microsoft.identitymodel.tokens.7.7.1.nupkg.sha512",
+    "C:\\Users\\Diana Rave\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.7.1\\system.identitymodel.tokens.jwt.7.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

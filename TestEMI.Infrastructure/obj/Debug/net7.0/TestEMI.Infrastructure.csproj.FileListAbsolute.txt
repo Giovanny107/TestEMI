@@ -1,0 +1,17 @@
+C:\Users\Diana Rave\source\repos\TestEMI\TestEMI.Infrastructure\bin\Debug\net7.0\TestEMI.Infrastructure.deps.json
+C:\Users\Diana Rave\source\repos\TestEMI\TestEMI.Infrastructure\bin\Debug\net7.0\TestEMI.Infrastructure.runtimeconfig.json
+C:\Users\Diana Rave\source\repos\TestEMI\TestEMI.Infrastructure\bin\Debug\net7.0\TestEMI.Infrastructure.dll
+C:\Users\Diana Rave\source\repos\TestEMI\TestEMI.Infrastructure\bin\Debug\net7.0\TestEMI.Infrastructure.pdb
+C:\Users\Diana Rave\source\repos\TestEMI\TestEMI.Infrastructure\bin\Debug\net7.0\TestEMI.Core.dll
+C:\Users\Diana Rave\source\repos\TestEMI\TestEMI.Infrastructure\bin\Debug\net7.0\TestEMI.Core.pdb
+C:\Users\Diana Rave\source\repos\TestEMI\TestEMI.Infrastructure\obj\Debug\net7.0\TestEMI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Diana Rave\source\repos\TestEMI\TestEMI.Infrastructure\obj\Debug\net7.0\TestEMI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diana Rave\source\repos\TestEMI\TestEMI.Infrastructure\obj\Debug\net7.0\TestEMI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Diana Rave\source\repos\TestEMI\TestEMI.Infrastructure\obj\Debug\net7.0\TestEMI.Infrastructure.AssemblyInfo.cs
+C:\Users\Diana Rave\source\repos\TestEMI\TestEMI.Infrastructure\obj\Debug\net7.0\TestEMI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Diana Rave\source\repos\TestEMI\TestEMI.Infrastructure\obj\Debug\net7.0\TestEMI.Infrastructure.csproj.CopyComplete
+C:\Users\Diana Rave\source\repos\TestEMI\TestEMI.Infrastructure\obj\Debug\net7.0\TestEMI.Infrastructure.dll
+C:\Users\Diana Rave\source\repos\TestEMI\TestEMI.Infrastructure\obj\Debug\net7.0\refint\TestEMI.Infrastructure.dll
+C:\Users\Diana Rave\source\repos\TestEMI\TestEMI.Infrastructure\obj\Debug\net7.0\TestEMI.Infrastructure.pdb
+C:\Users\Diana Rave\source\repos\TestEMI\TestEMI.Infrastructure\obj\Debug\net7.0\TestEMI.Infrastructure.genruntimeconfig.cache
+C:\Users\Diana Rave\source\repos\TestEMI\TestEMI.Infrastructure\obj\Debug\net7.0\ref\TestEMI.Infrastructure.dll

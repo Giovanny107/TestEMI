@@ -1,0 +1,304 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Diana Rave\\Source\\Repos\\Giovanny107\\TestEMI\\TestEMI\\TestEMI.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Diana Rave\\Source\\Repos\\Giovanny107\\TestEMI\\TestEMI.Application\\TestEMI.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Diana Rave\\Source\\Repos\\Giovanny107\\TestEMI\\TestEMI.Application\\TestEMI.Application.csproj",
+        "projectName": "TestEMI.Application",
+        "projectPath": "C:\\Users\\Diana Rave\\Source\\Repos\\Giovanny107\\TestEMI\\TestEMI.Application\\TestEMI.Application.csproj",
+        "packagesPath": "C:\\Users\\Diana Rave\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Diana Rave\\Source\\Repos\\Giovanny107\\TestEMI\\TestEMI.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Diana Rave\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Diana Rave\\Source\\Repos\\Giovanny107\\TestEMI\\TestEMI.Core\\TestEMI.Core.csproj": {
+                "projectPath": "C:\\Users\\Diana Rave\\Source\\Repos\\Giovanny107\\TestEMI\\TestEMI.Core\\TestEMI.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authorization": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[7.7.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.7.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Diana Rave\\Source\\Repos\\Giovanny107\\TestEMI\\TestEMI.Core\\TestEMI.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Diana Rave\\Source\\Repos\\Giovanny107\\TestEMI\\TestEMI.Core\\TestEMI.Core.csproj",
+        "projectName": "TestEMI.Core",
+        "projectPath": "C:\\Users\\Diana Rave\\Source\\Repos\\Giovanny107\\TestEMI\\TestEMI.Core\\TestEMI.Core.csproj",
+        "packagesPath": "C:\\Users\\Diana Rave\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Diana Rave\\Source\\Repos\\Giovanny107\\TestEMI\\TestEMI.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Diana Rave\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Diana Rave\\Source\\Repos\\Giovanny107\\TestEMI\\TestEMI.Infrastructure\\TestEMI.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Diana Rave\\Source\\Repos\\Giovanny107\\TestEMI\\TestEMI.Infrastructure\\TestEMI.Infrastructure.csproj",
+        "projectName": "TestEMI.Infrastructure",
+        "projectPath": "C:\\Users\\Diana Rave\\Source\\Repos\\Giovanny107\\TestEMI\\TestEMI.Infrastructure\\TestEMI.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Diana Rave\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Diana Rave\\Source\\Repos\\Giovanny107\\TestEMI\\TestEMI.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Diana Rave\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Diana Rave\\Source\\Repos\\Giovanny107\\TestEMI\\TestEMI.Core\\TestEMI.Core.csproj": {
+                "projectPath": "C:\\Users\\Diana Rave\\Source\\Repos\\Giovanny107\\TestEMI\\TestEMI.Core\\TestEMI.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.20, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Diana Rave\\Source\\Repos\\Giovanny107\\TestEMI\\TestEMI\\TestEMI.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Diana Rave\\Source\\Repos\\Giovanny107\\TestEMI\\TestEMI\\TestEMI.Api.csproj",
+        "projectName": "TestEMI.Api",
+        "projectPath": "C:\\Users\\Diana Rave\\Source\\Repos\\Giovanny107\\TestEMI\\TestEMI\\TestEMI.Api.csproj",
+        "packagesPath": "C:\\Users\\Diana Rave\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Diana Rave\\Source\\Repos\\Giovanny107\\TestEMI\\TestEMI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Diana Rave\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Diana Rave\\Source\\Repos\\Giovanny107\\TestEMI\\TestEMI.Application\\TestEMI.Application.csproj": {
+                "projectPath": "C:\\Users\\Diana Rave\\Source\\Repos\\Giovanny107\\TestEMI\\TestEMI.Application\\TestEMI.Application.csproj"
+              },
+              "C:\\Users\\Diana Rave\\Source\\Repos\\Giovanny107\\TestEMI\\TestEMI.Infrastructure\\TestEMI.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Diana Rave\\Source\\Repos\\Giovanny107\\TestEMI\\TestEMI.Infrastructure\\TestEMI.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.7.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

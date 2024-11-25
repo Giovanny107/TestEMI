@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "45Il9Blro+bzxMcPF9ZZHdJX+Zwj+TkH21ssG5qhScI=",
+  "Source": "TestEMI.Api",
+  "BasePath": "_content/TestEMI.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
