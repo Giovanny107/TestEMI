@@ -14,3 +14,38 @@ The performance problems I have encountered are:
 
 # Describe how you would profile and optimize a slow-running query in an ASP.NET Core application.
 To identify slow queries you must first identify them using tools such as Application Insights to look for metrics such as query execution time, request duration, and database call counts. Add logs to the application. From the database you can use SQL Server Profiler to identify slow queries. After identifying the query you can analyze if it is missing indexes or has inefficient joins. You should also check the filters. Return only the columns that are going to be used.
+
+# Test EMI
+This is a .NET 7 project for managing and processing data related to employees. It includes features like create, update, delete, get and login.
+
+Setup Instructions
+1. Clone the Repository
+Clone the project to your local machine:
+
+git clone (https://github.com/Giovanny107/TestEMI.git)
+cd your-repo-name
+
+2. Restore Dependencies
+Navigate to the project folder and restore the required NuGet packages:
+
+dotnet restore
+
+3. Configure the Database
+Open the appsettings.json file.
+Update the connection string under the "ConnectionStrings" section:
+
+"ConnectionStrings": {
+    "DefaultConnection": "Server=your_server;Database=your_database;User Id=your_user;Password=your_password;"
+}
+
+4. Apply Migrations
+Apply migrations to set up the database:
+
+dotnet ef database update
+
+5. Running the Project
+dotnet run
+
+6. Create a user to login
+7. Call login endpoint to get the token
+8. With the token, you can call all the endpoints.
